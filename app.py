@@ -9,7 +9,7 @@ st.set_page_config(page_title="我的 AI 遊戲基地", layout="centered")
 st.markdown("""
 <style>
     body {
-        background: linear-gradient(135deg, #0b3d91 0%, #1e5799 50%, #2b8ad5 100%);
+        background: linear-gradient(135deg, #0f1f4b 0%, #142e7c 40%, #1c4ab5 100%);
         color: #fff;
     }
     .stApp {
